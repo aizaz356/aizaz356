@@ -25,15 +25,7 @@
 
 ---
 
-## 🚀 What I'm Currently Learning
 
-```text
-C++ OOP              █████████████████░░░  85%
-Python               ████████████████░░░░  80%
-HTML & CSS            ████████████████░░░░  80%
-JavaScript             ████████████░░░░░░░  60%
-Full Stack Development ██████████░░░░░░░░░░  50%
-```
 
 ---
 
