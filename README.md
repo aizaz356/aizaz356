@@ -86,102 +86,6 @@
 ---
 
 
-
-### 💻 C++ OOP
-
-<a href="https://github.com/aizaz356/OOP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aizaz356&repo=OOP&theme=tokyonight" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🐍 Python
-
-<a href="https://github.com/aizaz356/Python-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aizaz356&repo=Python-&theme=tokyonight" />
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aizaz356&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aizaz356&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizaz356&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aizaz356&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aizaz356&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizaz356&theme=tokyonight" width="100%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aizaz356&theme=tokyonight" width="45%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizaz356&theme=tokyonight" width="45%"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aizaz356&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📅 Commit Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aizaz356&custom_title=Aizaz%20Ali's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -202,17 +106,7 @@
 
 ---
 
-## 💭 Developer Quote
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
