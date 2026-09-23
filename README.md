@@ -85,13 +85,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<table align="center">
-
-<tr>
-
-<td width="50%" align="center">
 
 ### 💻 C++ OOP
 
