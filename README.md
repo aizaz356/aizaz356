@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 I'm an **Information Technology student**
-* 🔭 Currently working on **C++ OOP**
+* 🔭 Currently working on **DSA**
 * 🌱 Currently learning **Full Stack Development**
 * 🐍 Interested in **Python & C++**
 * 💡 Interested in **Software Development, Web Development & Problem Solving**
