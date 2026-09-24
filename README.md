@@ -15,9 +15,6 @@
 ## 👨‍💻 About Me
 
 * 🎓 I'm an **Information Technology student**
-* 🔭 Currently working on **DSA**
-* 🌱 Currently learning **Full Stack Development**
-* 🐍 Interested in **Python & C++**
 * 💡 Interested in **Software Development, Web Development & Problem Solving**
 * 🤝 Looking to collaborate on **Python and Web Development projects**
 * 📚 Currently improving my **programming and development skills**
